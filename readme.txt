@@ -1,3 +1,6 @@
+This project is the source code of our paper "QSSP: a fast and automatic stem-leaf segmentation 
+pipeline for point cloud of corn shoot".
+
 1.The code was developed in matlab2017a and tested only on this version.
 
 2.How to run stem and leaf segmentation code.
@@ -9,4 +12,4 @@
 3.How to run downsample code.
 1)Run Down_Sample.m
 2)You can set the 'grid' parameter. The larger this parameter is, the fewer points will be obtained from the first downsampling.
-3£©All the '15000' numbers can be changed to any number to obtain the downsampling result of any number of points.
+3Â£Â©All the '15000' numbers can be changed to any number to obtain the downsampling result of any number of points.
