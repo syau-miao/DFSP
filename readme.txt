@@ -1,5 +1,4 @@
-This project is the source code of our paper "QSSP: a fast and automatic stem-leaf segmentation 
-pipeline for point cloud of corn shoot".
+This project is the source code of our paper "DFSP: A fast and automatic distance field-based stem-leaf segmentation pipeline for point cloud of maize shoot".
 
 1.The code was developed in matlab2017a and tested only on this version.
 
